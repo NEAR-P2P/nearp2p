@@ -13,4 +13,9 @@ https://github.com/dvconsultores/NearP2PChat
 Site Testnet
 NETWORK: Testnet
 
-https://nearp2p.com/#/login
+https://testnet.nearp2p.com/#/login
+
+Site Mainnet
+NETWORK: Mainnet
+
+https://app.nearp2p.com/#/login
