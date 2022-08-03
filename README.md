@@ -11,6 +11,9 @@ https://github.com/dvconsultores/NearP2PChat
 # Prices
 https://github.com/dvconsultores/NearP2P-NearPricesFiat
 
+# Node Services
+https://github.com/dvconsultores/nearp2p_node_service
+
 Site Testnet
 NETWORK: Testnet
 
