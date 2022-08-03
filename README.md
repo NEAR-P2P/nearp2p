@@ -8,6 +8,9 @@ https://github.com/dvconsultores/NearP2PBackend
 # Chat
 https://github.com/dvconsultores/NearP2PChat
 
+# Prices
+https://github.com/dvconsultores/NearP2P-NearPricesFiat
+
 Site Testnet
 NETWORK: Testnet
 
