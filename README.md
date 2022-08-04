@@ -1,6 +1,9 @@
 # nearp2p
 NEAR Descentralized P2P
 
+# Frontend
+https://github.com/NEAR-P2P/NearP2PFrontEnd
+
 # Backend
 https://github.com/dvconsultores/NearP2PBackend
 
